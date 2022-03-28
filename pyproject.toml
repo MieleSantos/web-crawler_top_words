@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "web-crawler_top_words"
+version = "0.1.0"
+description = ""
+authors = ["Miele <mielesnts@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+wordcloud = "^1.8.1"
+bs4 = "^0.0.1"
+requests = "^2.27.1"
+
+[tool.poetry.dev-dependencies]
+flake8 = "^4.0.1"
+black = {version = "^22.1.0", allow-prereleases = true}
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
