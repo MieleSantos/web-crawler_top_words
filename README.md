@@ -1,10 +1,10 @@
 # web_crawler_top_words
-Exercício do BootCamp Cognizant Cloud Data Engineer #2
+Exercício do Segurança da Informação com Python do BootCamp Cognizant Cloud Data Engineer #2
 
 No exercício foi feito um web crawler de um site e conta a quantidade de palavras usadas e mostra as mais usadas e ssua quantidades.
 ## Melhorias
-- remover palavras inrrelevantes
-- usar wordcloud para fazer a visualização
+- Remover palavras inrrelevantes. `em desenvolvimento`
+- Usar wordcloud para fazer a visualização
 
 ## Configuração do ambiente
 
