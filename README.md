@@ -3,7 +3,9 @@ Exercício do Segurança da Informação com Python do BootCamp Cognizant Cloud 
 
 No exercício foi feito um web crawler de um site e conta a quantidade de palavras usadas e mostra as mais usadas e ssua quantidades.
 ## Melhorias
-- Remover palavras inrrelevantes. `em desenvolvimento`
+- Remover Stop Words
+    - Stop Words: uma palavra de parada é uma palavra comumente usada (como: "the", "a", "an", "in") que um mecanismo de pesquisa foi programado para ignorar, tanto ao indexar entradas para pesquisa quanto ao recuperá-las como resultado de uma consulta de pesquisa. 
+    - Para removê-las vamos usar o NLTK (Natural Language Toolkit) que possui uma lista de palavras irrelevantes armazenadas em 16 idiomas diferentes.
 - Usar wordcloud para fazer a visualização
 
 ## Configuração do ambiente
