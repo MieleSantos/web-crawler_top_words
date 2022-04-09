@@ -23,5 +23,8 @@ No exercício foi feito um web crawler de um site e conta a quantidade de palavr
     - Documentação da [WordCloud](https://amueller.github.io/word_cloud/auto_examples/single_word.html)
 
 ## WordCloud gerada
-
+### Com stopwords
 ![images/wordcloud.png)](images/wordcloud.png)
+
+### Sem Stopwords e números
+![images/wordcloud.png)](images/sem_soptwords_num.png)
